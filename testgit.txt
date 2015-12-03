@@ -1,3 +1,9 @@
 2015-12-03 learn git
 this is first doc in my git repo
 version 0.1
+
+Just now I made a mistake. If use ssh, it should be:
+git@github.com:yuanyue-nj/learngit.git but I input as git@github.com/yuanyue-nj/learngit.git
+
+to remove error link use "git remote rm origin"
+version 0.2
