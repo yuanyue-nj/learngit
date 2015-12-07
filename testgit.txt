@@ -8,4 +8,4 @@ git@github.com:yuanyue-nj/learngit.git but I input as git@github.com/yuanyue-nj/
 to remove error link use "git remote rm origin"
 version 0.2
 
-test git branch
+test git branch with conflicts 
